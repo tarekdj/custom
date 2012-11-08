@@ -1,0 +1,3 @@
+name = jquery.cookie Bug fixer
+description = Fixes jquery.cookie bug
+core = 7.x
